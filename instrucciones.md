@@ -2,7 +2,7 @@
 
 Sigue estos pasos cuidadosamente: 
 
-### Paso 1: Crea tu cuenta de GitHub 
+## Paso 1: Crea tu cuenta de GitHub 
 
 1. Ve al sitio web: Abre tu navegador y visita [GitHub.com](https://github.com/). 
 
@@ -16,7 +16,7 @@ una variación) porque será público y te representará en la comunidad de desa
 
 ¡Felicidades! Ya eres parte de la comunidad de GitHub. 
 
-### Paso 2: Instala y configura Git en tu computadora 
+## Paso 2: Instala y configura Git en tu computadora 
 
 Git es la herramienta que te permitirá interactuar con GitHub desde tu computadora. 
 
@@ -40,7 +40,7 @@ computadora. Git almacenará esto en un archivo llamado .gitconfig.
 
 Deberías ver tu nombre de usuario y correo electrónico en la lista. 
 
-### Paso 3: Crea tu primer repositorio en GitHub (¡usando la interfaz web!) 
+## Paso 3: Crea tu primer repositorio en GitHub (¡usando la interfaz web!) 
 
 Vamos a crear un espacio para tu proyecto en la nube de GitHub. 
 
@@ -74,7 +74,7 @@ archivo en formato markdown.
 ¡Listo! Has creado tu primer repositorio en GitHub. Ahora está vacío, excepto por el archivo README.md y 
 el archivo instrucciones.md que acabas de generar. 
 
-### Paso 4: Clona tu repositorio en tu computadora 
+## Paso 4: Clona tu repositorio en tu computadora 
 
 Ahora, necesitamos una copia de este repositorio en tu computadora para poder trabajar en él localmente. 
 
@@ -101,7 +101,7 @@ con el nombre de tu repositorio.
 
 Ahora estás dentro de la carpeta local de tu repositorio. 
 
-#### Conceptos clave que acabas de usar: 
+### Conceptos clave que acabas de usar: 
 
 - Repositorio (repo): Donde se guarda tu proyecto (en tu computadora local y en GitHub). 
 
