@@ -4,7 +4,7 @@ Sigue estos pasos cuidadosamente:
 
 ### Paso 1: Crea tu cuenta de GitHub 
 
-1. Ve al sitio web: Abre tu navegador y visita [GitHub.com](https://github.com/)  . 
+1. Ve al sitio web: Abre tu navegador y visita [GitHub.com](https://github.com/). 
 
 2. Regístrate: Busca y haz clic en el botón "Sign up" o "Registrarse". 
 
@@ -20,7 +20,7 @@ una variación) porque será público y te representará en la comunidad de desa
 
 Git es la herramienta que te permitirá interactuar con GitHub desde tu computadora. 
 
-1. Descarga Git: Ve a <https://git-scm.com/downloads>  y descarga el instalador para tu sistema operativo 
+1. Descarga Git: Ve a [git-scm.com/downloads](https://git-scm.com/downloads) y descarga el instalador para tu sistema operativo 
 (Windows, macOS o Linux). 
 
 2. Instala Git: Ejecuta el instalador y sigue los pasos. En la mayoría de los casos, puedes dejar las 
