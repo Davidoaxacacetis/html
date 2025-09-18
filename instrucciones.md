@@ -36,22 +36,31 @@ Terminal  y ejecuta los siguientes comandos, reemplazando con tu nombre y correo
 computadora. Git almacenará esto en un archivo llamado .gitconfig. 
 
 6. Verifica la configuración: Para asegurarte de que todo está correcto, ejecuta:  
- git config --global --list 
+ git config --global --list
+
 Deberías ver tu nombre de usuario y correo electrónico en la lista. 
-Paso 3: Crea tu primer repositorio en GitHub (¡usando la interfaz web!) 
+
+### Paso 3: Crea tu primer repositorio en GitHub (¡usando la interfaz web!) 
+
 Vamos a crear un espacio para tu proyecto en la nube de GitHub. 
+
 1. Inicia sesión en GitHub: Si no lo estás, entra a GitHub.com con tu nueva cuenta. 
+
 2. Crea un nuevo repositorio: En la esquina superior derecha, busca un signo de más (+) y haz clic en 
 "New repository" (Nuevo repositorio). 
+
 3. Completa los detalles del repositorio:  
-o Repository name: Dale un nombre descriptivo a tu proyecto, por ejemplo: mi-primer
+- Repository name: Dale un nombre descriptivo a tu proyecto, por ejemplo: mi-primer
 proyecto-prepa. 
-o Description (optional): Escribe una breve descripción de tu proyecto (ej. "Un proyecto de 
+
+- Description (optional): Escribe una breve descripción de tu proyecto (ej. "Un proyecto de 
 ejemplo para aprender Git y GitHub"). 
-o Public/Private: Selecciona "Public" (Público) para que otros puedan verlo y 
+
+-Public/Private: Selecciona "Public" (Público) para que otros puedan verlo y 
 potencialmente contribuir (¡excelente para tu portafolio!), o "Private" (Privado) si prefieres 
 mantenerlo solo para ti. 
-o Initialize this repository with: Marca la casilla "Add a README file". El archivo 
+
+- Initialize this repository with: Marca la casilla "Add a README file". El archivo 
 README.md es una descripción de tu proyecto y es una buena práctica incluirlo siempre. 
 4. Crea el repositorio: Haz clic en el botón verde "Create repository". 
 5. Modifica el archivo README.md: Añade tus datos generales y una foto tuya, la información debe 
